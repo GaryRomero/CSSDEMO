@@ -1,0 +1,45 @@
+.sender-column{
+
+    text-align: right;
+}
+
+/*pendiente si se cambia de color*/
+h1{
+
+    font-size: 50px; color:black
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h2{
+    color:aquamarine
+}
+
+a{
+    text-decoration: line-through; color: red; vertical-align
+}
+
+time{
+
+    line-height: 60px; font-weight:bolder
+}
+
+.ol li{
+
+    word-spacing: 10px;
+}
+
+ 
+/*se debe cambiar el writing mode*/
+
+#region{
+    writing-mode: vertical-rl; 
+}
+
+
+
+#miss{
+    quotes: "'" "'";
+  }
